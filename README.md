@@ -32,7 +32,8 @@ Luka Doncic has been an international basketball star since he became the younge
 - Data wrangling
 
 ## Sketches:
-https://shorthand.com/organisations/JSrgFWI7zn/teams/ilpUD1hM3R/stories/f0rZPyOlmH
+![Vis. 1](Sketches1.jpg)
+
 
 ## Data Source
 The primary data for this presentation will come from Basketball-Reference (https://www.basketball-reference.com/). This site provides a comprehensive, publicly available repository of ALL basketball statistics (formal, mainstream, and invented) since 1974. The interface of the site provides maleable access to data files, allowing users to download specified CSV's which can be selected to focus on a range of metrics, players, teams, or time frames. Basketball-Reference is currently the de facto infrastructure supporting nearly all forms of basketball related analytics. For-profit advanced NBA analytics sites (such as cleaningtheglass) use Basketball-Reference as a source, as do media companies whose content is geared towards the general public (The Ringer).
