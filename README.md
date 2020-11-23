@@ -36,9 +36,13 @@ Luka Doncic has been an international basketball star since he became the younge
 ![Vis. 2](sketches2.jpg)
 
 **Radar Charts:** This will display the "most important" stats of multiple groups of benchmark players to see how Luka holds up in comparison. I will use radar charts as an introductory tool to capture Lukas overall stats for his 1st and 2nd year in the NBA. A potential title would be "Lukas Rookie Year, surprisingly well rounded"
+
 **Grid of Dot Plots:** I would like to use these plots to show how Luka stands out against the masses in hyper-relevant metrics. Historic and current significant/recognizable players will have distinct color groups, while less significant players will have a low opacity and be used to establish the general trend. I would like users to be able to use their mouse to display information on any dot. An example title for one of these grids could be "Luka, great vision" and would display his position compared to other players with Assist Rate on the Y, and Turnover Rate on the X-axis. Each dot plot in the grid will highlight a dimension of Lukas game. 
+
 **Line Charts:** The grid of line charts will be the primary workhorse in terms of showing Lukas progression between his first and second year in the NBA. Hyper-relevant stats will be selected, and each statistics relative rank in the NBA will be used to quantify the Y-axis. Multiple line charts will be used to display the progression of other notable players to provide context for Lukas data. An example title of the line charts could be: "Luka Doncic, unprecedented progression?"
-Flow Chart: This will be a tough chart to use (because it will take a lot of data wrangling), but I would like to include it in my presentation. Ideally, the visualization will display the % of various results from when Luka touches the ball (Ex: Pass away [neutral], Turnover [negative], Assist 2pt [Positive], Score 3pt [Positive]...). An example title for this chart could be "What to expect when XXX is in control"
+
+**Flow Chart:** This will be a tough chart to use (because it will take a lot of data wrangling), but I would like to include it in my presentation. Ideally, the visualization will display the % of various results from when Luka touches the ball (Ex: Pass away [neutral], Turnover [negative], Assist 2pt [Positive], Score 3pt [Positive]...). An example title for this chart could be "What to expect when XXX is in control"
+
 **Dot Plots (Vary Size):** This visualization will be very similar to the grid of dot plots, but the size of the dots will vary to communicate a 3rd variable (which will typically be the "volume" - players that do XYZ more will have larger dots than players that do XYZ less). 
 
 
