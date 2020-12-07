@@ -1,28 +1,25 @@
-# Project-Outline
+# Project-Outline (Part 1)
 
-## Narrative: Luka Doncic is the most Exciting Player in the NBA
+## Narrative: Luka Doncic is the most exciting player in the NBA
 Luka Doncic has been an international basketball star since he became the youngest player to join the Real Madrid Basketball club at the age of 16. 2 years later, at the age of 18, he won the 2018 Euro League MVP and the scoring title. However, the question has consistently been asked - CAN HE PRODUCE IN THE NBA??? This presentation will assess Lukas first 2 years in the NBA and project his future success (OR FAILURE!)...
 
-#### 1. Just a boy from Europe (General Background...)
-- Basketball Culture in Europe
-- Feelings towards international draft picks
+#### 1.Understanding and appreciating the great athletes
+- Public perception and interaction with "narratives of greatness"
+- Something special - distinguishing the great from the good
 
-#### 2. Draft Class and First Year in the NBA
+#### 2.Luka Doncic - the next one to leave a mark on history?
+##### 2.A - Background
+- Luka's narrative
+- Narrative of european developed players in the NBA
+
+##### 2.B - Statistical Analysis
 - Quick Statistics Introduction and Metrics Breakdown
 - Comparison to draft picks
-- First season Stats w/ classmates comparisons, and other "greats" first years
+- Comparison to historical, recognizable, players
 - Making teammates better?
 
-#### 3. Second year in the NBA
-- Comparison to draft class
-- comparison to "historic Greats" second years
-- Comparison to other league leaders (Salary to reflect current valuation, key statistics)
 
-#### 4. Playoff Production!!
-- first playoffs... (how long did it take "greats" to get to the playoffs)
-- historic comparisons, current leader comparisons...
-
-#### 5 - Conclusion - Believe in Luka
+#### 3 - Conclusion - Believe in Luka
 - Show the progression of statistics highlighted in 3 and 4
 - comprehensive final visualizations highlighting the most compelling data
 
